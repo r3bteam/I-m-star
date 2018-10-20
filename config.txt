@@ -1,5 +1,5 @@
 token=NTAzMjk2ODMwMTM5MDA2OTkw.Dq0bQw.Ivot--wIZYYCFjYYocsgfgS9_oY
-owner=427082011111325707c 
+owner=427082011111325707
 prefix=A
 stayinchannel=true
 songinstatus=true
